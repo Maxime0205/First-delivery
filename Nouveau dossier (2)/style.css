@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200..1000&family=Oswald:wght@200..700&display=swap');
+
+
+* {margin: 0;
+
+  box-sizing: border-box;}
+
+
+h1, h2{
+
+   font-family: "Oswald", sans-serif;
+
+   font-weight: 100;
+
+   font-size: 36px;
+
+   color: #003618;
+
+   text-align: left;
+
+   line-height: 120px;
+
+}
+
+
+h1 {
+
+  text-transform: uppercase;
+
+  text-decoration: underline;
+
+  font-size: 54px;
+
+}
+
+
+header, section {
+
+   width: 83.33%;
+
+   margin: 0 auto;
+
+   margin-bottom: 4em;
+
+  }
+
+ p {
+
+   font-family: "Nunito+Sans", sans-serif;
+
+   font-weight: 100;
+
+   margin-bottom:54px ;
+
+}
+
+
+a {
+
+   color: #393939;
+
+   border: 1px #2C313F solid;
+
+   padding: 0.5em 1em;
+
+}
+
+#secondSection {
+
+    width: 100%;
+ 
+    background-color: #ffbdbd;
+ 
+   }
+
+a:hover {
+
+   color: #005c1a;
+
+}
+
+
+div {
+
+   width: 83.33%;
+
+   margin:0 auto;
+
+ }
+
+ div p {
+
+    font-family: "Nunito+Sans", sans-serif;
+ 
+    font-weight: 100;
+ 
+    margin-bottom:64px ;
+ 
+    text-align: left;
+ 
+ }
+ 
+ 
+ div div {
+ 
+    width: 100%;
+ 
+    margin: 0;
+ 
+    display: flex;
+ 
+    justify-content: space-between;
+ 
+  }
+ 
+ 
+ #secondSection img {
+ 
+    width: 40%;
+ 
+    margin-bottom: 2em;
+ 
+  }
+ 
+ 
+ img {
+ 
+    width: 50%;
+ 
+    margin-left: auto;
+ 
+    margin-right: auto;
+ 
+    display: block;
+ 
+  }
+ 
+  #section4 img {
+ 
+    width: 333.33px;
+  
+    height: 250px;
+  
+    margin-right: 6px ;
+  
+  
+  }
+
+ #section4 div {
+ 
+    width: 100%;
+ 
+    margin: 0;
+ 
+    display: flex;
+ 
+    justify-content:space-between;
+ 
+    margin-bottom: 4em;
+ 
+    margin-right: 20px;
+ 
+    align-items: center;
+ 
+ }
+ 
+
+ 
+ footer {
+ 
+   background-color: #4b0101;
+ 
+   height: 200px;
+ 
+   width: 100%;
+ 
+   margin: 0;
+ 
+   }
+ 
+ 
